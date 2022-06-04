@@ -33,3 +33,19 @@ used to remove duplicates in text\
 The -u tag prints only unique lines
 ## strings
 used to see the text inside a binary file or other type of format
+## base64
+used to encode data into base64\
+use the -d flag to decode it
+## tr
+is short for translate/
+translate one set of alphabets to another set\
+Can be used for rotation of alphabets \
+tr \[set1\] \[set2\] \<filename\>
+## xxd
+## tar
+## gzip
+## bzip2
+## ssh with private key
+## telnet
+## openssl s_client
+ 
