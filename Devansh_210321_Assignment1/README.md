@@ -17,13 +17,13 @@ tells the type of the file
 ## du
 tells the disk usage of a file
 ## find
-finds the file in a directory based on name , size etc. using various flags\
+finds the file in a directory based on name , size etc. using various flags
 - \-name for specified name
 - \-size for specified size of the file
 - \-user for files owned by specific user
 - \-group for files owned by specific group
 ## grep
-use for finding certain patterns in text using various flags\
+use for finding certain patterns in text using various flags
 - \-i for finding a string insensitively\
 You can use various regex in it also. 
 ## sort
