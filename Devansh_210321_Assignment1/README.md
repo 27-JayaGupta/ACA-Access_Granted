@@ -42,10 +42,22 @@ translate one set of alphabets to another set\
 Can be used for rotation of alphabets \
 tr \[set1\] \[set2\] \<filename\>
 ## xxd
+used to make a hexdump of a file\
+using the -r flag we can do the reverse (convert hexdump to binary)
 ## tar
+used to make compressed files of .tar extension
+using xvf option we can extract the original files from the .tr file
 ## gzip
+used to compress files to .gz extension
+with -d flag we can decompress the .gz file
 ## bzip2
+used to compress files to .bz2 extension
+with -d flag we can decompress the .bz2 file
 ## ssh with private key
+if we have private key in a file, we can ssh using the -i flag
+ssh -i <file_name> username@server
 ## telnet
-## openssl s_client
+used to communicate to a host (over TCP/IP protocol), we can also specify a port
+## openssl-s_client
+used to communicate to a host (over SSL protocol), we have to specify host and port using the -connect flag
  
