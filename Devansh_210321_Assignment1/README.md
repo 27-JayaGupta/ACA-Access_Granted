@@ -60,4 +60,11 @@ ssh -i <file_name> username@server
 used to communicate to a host (over TCP/IP protocol), we can also specify a port
 ## openssl-s_client
 used to communicate to a host (over SSL protocol), we have to specify host and port using the -connect flag
+## nmap
+used to find status of the ports of a specified server\
+nmap server -p\<port(s)\>\
+Example: nmap localhost -p1-65535
+## diff
+used to difference line by line between two files
+
  
