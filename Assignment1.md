@@ -53,3 +53,16 @@ HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 
 ##Bandit7
 ssh bandit7@bandit.labs.overthewire.org -p 2220
+grep millionth data.txt
+millionth	cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+exit
+
+##Bandit8
+ssh bandit8@bandit.labs.overthewire.org -p 2220
+sort data.txt| uniq -u
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+exit
+
+##Bandit9
+ssh bandit9@bandit.labs.overthewire.org -p 2220
