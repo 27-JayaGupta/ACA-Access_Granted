@@ -98,7 +98,6 @@ used *strings data.txt | grep "=="*
 
 There were some texts but password could be predicted
 
-
 ## Level 10 -> Level 11
 
 used *base64 -d data.txt*
