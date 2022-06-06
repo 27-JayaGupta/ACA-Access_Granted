@@ -177,3 +177,33 @@
 
 
 *Generates passcode for lvl 11* **IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR**
+
+
+## Lvl 11 - 12
+### CODE(Bold)
+**ssh bandit11@bandit.labs.overthewire.org -p 2220**
+
+
+*Accessed with passcode from above*
+
+
+**cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'** *It backrotates the alphabets*
+
+
+*Generates passcode for lvl 12* **5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu**
+
+
+## Lvl 12 - 13
+### CODE(Bold)
+**ssh bandit12@bandit.labs.overthewire.org -p 2220**
+
+
+*Accessed with passcode from above*
+
+
+**** *It backrotates the alphabets*
+
+
+*Generates passcode for lvl 13* ****
+
+
