@@ -201,9 +201,114 @@
 *Accessed with passcode from above*
 
 
-**** *It backrotates the alphabets*
+**mkdir /tmp/yell** 
 
 
-*Generates passcode for lvl 13* ****
+**cp data.txt /tmp/yell**
+
+
+**cd /tmp/yell**
+
+
+**xxd -r data.txt > data**
+
+
+**file data**
+
+
+**mv data data.gz**
+
+
+**gzip -d data.gz**
+
+
+**file data**
+
+
+**mv data data.bz2**
+
+
+**bzip2 -d data.bz2**
+
+
+**file data**
+
+
+**mv data data.gz**
+
+
+**gzip -d data.gz**
+
+
+**file data**
+
+
+**mv data data.tar**
+
+
+**tar xf data.tar**
+
+
+**rm data.tar**
+
+
+**rm data.txt**
+
+
+**file data5.bin**
+
+
+**mv data5.bin data.tar**
+
+
+**tar xf data.tar**
+
+
+**ls**
+
+
+**tar xf data6.bin**
+
+
+**file data6.bin**
+
+
+**mv data6.bin data.bz2**
+
+
+**bzip2 -d data.bz2**
+
+
+**file data**
+
+
+**rm data.tar**
+
+
+**mv data dat.tar**
+
+
+**tar xf dat.tar**
+
+
+**ls**
+
+
+**file data8.bin**
+
+
+**mv data8.bin data.gz**
+
+
+**gzip -d data.gz**
+
+
+**file data**
+
+
+**cat data**
+
+
+*Generates passcode for lvl 13* ***8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL*
 
 
