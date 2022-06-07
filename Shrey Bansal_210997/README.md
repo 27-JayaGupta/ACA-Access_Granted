@@ -4,7 +4,6 @@ Steps to finish each level
 - **Level 0** :
   - _Commands :_
     1. ssh bandit0@bandit.labs.overthewire.org -p 2220
-  - _Password :_ bandit0
 - **Level  0 -> Level 1** :
   - _Commands :_
     1. ls
