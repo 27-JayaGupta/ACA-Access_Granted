@@ -2,56 +2,56 @@
  ### bandit0
  #
 # Level 1- 
-### boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+### generated password for level 2
 #
 # Level2-
-### CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+### generated password for level 3
 ### bandit2@bandit:~$ cat spaces\ in\ this\ filename 
 #
 # Level 3-
-### UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+### Generated password for laval 4
 ### bandit3@bandit:~/inhere$ cat .hidden
 # Level 4-
-### pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+### generated password for level 5
 #
 # Level 5-
-### koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+### generated password for level 6
 ### bandit5@bandit:~$ cat inhere/maybehere07/.file2
-DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
 #
 # Level 6-
-### DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+### generated password for level 7
 ### bandit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c -type f 2>/dev/null
 /var/lib/dpkg/info/bandit7.password
 #
 # Level 7- 
-### HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+### ganerated password for level 8
 ### 
 
 #
 # Level 8-
-### cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+### ganerated password for level 9
 used
 bandit8@bandit:~$ sort data.txt |uniq -c
 then,
 the entity with frequency 1 was the password
 #
 # Level 9-
-### UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+### ganerated password for level 10
 #
 # Level 10- 
-### truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+### ganerated password for level 11
 bandit10@bandit:~$ cat data.txt
 VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnFyeEUxaHhUTkViVVBSCg==
 #
 # Level 11- 
-### IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+### 12
 bandit11@bandit:~$ cat data.txt
 Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh
-## used cyberchef to decrypt rot 13
+## used cyberchef to decrypt rot 13 in the above line
 #
 # Level 12- 
-### 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+### ganerated password for level 13
 bandit12@bandit:~$ mkdir /tmp/harshit
 bandit12@bandit:~$ cp data.txt /tmp/harshit
 bandit12@bandit:~$ cd /tmp/harshit
@@ -126,21 +126,18 @@ The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 ## used xxd
 #
 # Level13- 
-### 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+### ganerated password for level 14
 bandit13@bandit:~$ ls
 sshkey.private
 
 # Level 14- 
-### 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+### ganerated password for level 15
 bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 ## Used nc
 #
 # Level 15- 
-### BfMYroe26WYalil77FoDi9qh59eK5xNr
+### ganerated password for level 8 16
 bandit15@bandit:~$ cat /etc/bandit_pass/bandit15
 bandit15@bandit:~$ ncat --ssl localhost 30001
-BfMYroe26WYalil77FoDi9qh59eK5xNr
-#
-# Level 16-
-### cluFn7wTiGryunymYOu4RcffSxQluehd
+
