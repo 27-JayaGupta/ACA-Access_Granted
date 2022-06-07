@@ -49,4 +49,4 @@ When I logged into the machine and I ran ls I saw a file named sshkey.private wh
 # level 15
 I ran `nc localhost 30000` and  I saw that I was connected and hence I pasted the password for bandit14.
 # level 16
-pass word for bandit lab 15 BfMYroe26WYalil77FoDi9qh59eK5xNr
+x
