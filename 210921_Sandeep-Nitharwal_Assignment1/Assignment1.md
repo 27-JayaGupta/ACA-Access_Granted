@@ -1,10 +1,10 @@
-# *Bandit**
+# *Bandit*
 ## Bandit0
-ssh bandit0@bandit.labs.overthewire.org -p 2220
-ls
-cat readme
-boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-exit
+ssh bandit0@bandit.labs.overthewire.org -p 2220  
+ls  
+cat readme  
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1  
+exit  
 
 ## Bandit1
 ssh bandit1@bandit.labs.overthewire.org -p 2220
