@@ -1,6 +1,7 @@
 # over-the-wire-bandit
-My progress for the over-the-wire-bandit levels
+My progress for the over-the-wire-bandit level
 # Linux Commands
+
 ## ls
 lists all the contents (visible) in a directory
 ## ls -a
