@@ -1,19 +1,19 @@
-#Bandit
-##Bandit0
+**#Bandit**
+*##Bandit0*
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ls
 cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 exit
 
-##Bandit1
+*##Bandit1*
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 ls
 cat < -
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 exit
 
-##Bandit2
+*##Bandit2*
 ssh bandit2@bandit.labs.overthewire.org -p 2220
 ls
 cat spaces\ in\ this\ filename
