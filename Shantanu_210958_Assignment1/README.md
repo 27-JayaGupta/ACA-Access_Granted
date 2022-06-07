@@ -52,19 +52,3 @@ bandit9-> bandit10:-  Using strings command
  echo '4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e' | nc localhost 30000
  
  
- All passwords:-
-bandit1 password:-boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-bandit2 password:-CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
-bandit3 password:-UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
-bandit4 password:-pIwrPrtPN36QITSp3EQaw936yaFoFgAB
-bandit5 password:-koReBOKuIDDepwhWk7jZC0RTdopnAYKh
-bandit6 password:-DXjZPULLxYr17uwoI01bNLQbtFemEgo7
-bandit7 password:-HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
-bandit8 password:-cvX2JJa4CFALtqS87jk27qwqGhBM9plV
-bandit9 password:-UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
-bandit10 password:-truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
-bandit11 password:-IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
-bandit12 password:-5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
-bandit13 password:-8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
-bandit14 password:-4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
-bandit15 password:-BfMYroe26WYalil77FoDi9qh59eK5xNr
