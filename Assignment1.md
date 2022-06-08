@@ -7,7 +7,6 @@
 
 *cleared with given passcode and generates passcode for lvl 1* 
  
-**boJ9jbbUNNfktd78OOpsqOltutMc3MY1**
 
 ## Lvl 1 - 2
 ### CODE(Bold)
@@ -19,7 +18,7 @@
 **cat < -**
 
 
-*Generates passcode for lvl 2* **CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9**
+*Generates passcode for lvl 2* 
 
 ## Lvl 2 - 3
 ### CODE(Bold)
@@ -34,7 +33,7 @@
 
 *Generates passcode for lvl 3*
 
-**UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK**
+
 
 ## Lvl 3 - 4
 ### CODE(Bold)
@@ -53,7 +52,7 @@
 **cat .hidden**
 
 
-*Generates passcode for lvl 4* **pIwrPrtPN36QITSp3EQaw936yaFoFgAB**
+*Generates passcode for lvl 4* 
 
 
 
@@ -80,7 +79,7 @@
 *Generates passcode for lvl 5*
 
 
-**koReBOKuIDDepwhWk7jZC0RTdopnAYKh**
+
 
 ## Lvl 5 - 6
 ### CODE(Bold)
@@ -99,7 +98,7 @@
 **cat ./maybehere07/.file2**
 
 
-*Generates passcode for lvl 6* **DXjZPULLxYr17uwoI01bNLQbtFemEgo7**
+*Generates passcode for lvl 6* 
 
 ## Lvl 6 - 7
 ### CODE(Bold)
@@ -115,7 +114,7 @@
 **cat /var/lib/dpkg/info/bandit7.password**
 
 
-*Generates passcode for lvl 7* **HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs**
+*Generates passcode for lvl 7* 
 
 
 
@@ -133,7 +132,7 @@
 *Generates passcode for lvl 8* 
 
 
-**cvX2JJa4CFALtqS87jk27qwqGhBM9plV**
+
 
 ## Lvl 8 - 9
 ### CODE(Bold)
@@ -149,7 +148,7 @@
 *Generates passcode for lvl 9*
 
 
-**UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR**
+
 
 ## Lvl 9 - 10
 ### CODE(Bold)
@@ -162,7 +161,7 @@
 **strings data.txt | grep ==** *stings seperates redable stuff from the data and grep ensures that the data that is returned is precededby ==*
 
 
-*Generates passcode for lvl 10* **truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk**
+*Generates passcode for lvl 10* 
 
 
 ## Lvl 10 - 11
@@ -176,7 +175,7 @@
 **base64 -d data.txt** *it decodes the data giving the passcode*
 
 
-*Generates passcode for lvl 11* **IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR**
+*Generates passcode for lvl 11* 
 
 
 ## Lvl 11 - 12
@@ -190,7 +189,7 @@
 **cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'** *It backrotates the alphabets*
 
 
-*Generates passcode for lvl 12* **5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu**
+*Generates passcode for lvl 12* 
 
 
 ## Lvl 12 - 13
@@ -309,6 +308,5 @@
 **cat data**
 
 
-*Generates passcode for lvl 13* **8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL**
-
+*Generates passcode for lvl 13* 
 
