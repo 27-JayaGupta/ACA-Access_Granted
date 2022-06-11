@@ -21,12 +21,23 @@ You can find Assignment2 attached. For submission just put all your relevant fil
 
 You need to make the above folder in Assignment2 folder in the main repo.
 
+[Assignment2](https://github.com/27-JayaGupta/ACA-Access_Granted/tree/main/Assignment2/Assignment)
 ## Additional Reading Material -> File Permissions
 
 Mentees can read about File System Permissions, specially about SetUID bit, where and why it is used.Provided a link to start and then mentees can explore on your own. 
 
-Further you can read about managing users and groups in a unix system. You can also try creating new users and set permissions/owners/groups to make the resources of that user secure (not accessible by anyone outside).
+Further menteed can read about managing users and groups in a unix system. Mentees can also try creating new users and set permissions/owners/groups to make the resources of that user secure (not accessible by anyone outside) .
 
 https://linuxfoundation.org/blog/classic-sysadmin-understanding-linux-file-permissions/
 
 ## Additional Assignment -> Python
+
+Hey guys, from the next week we will go into the interesting phase of our project, where we will actually learn how to analyse a system and hack into it. We expect you to be little familiar with python , so here are the assignments(it is not a compulsory assignment, those who don't know python or those who are eager to dive deeper into python can do this):
+
+1. Assignment 1- You’re supposed to the HW1 from this link: https://www.cis.upenn.edu/~cis192/tliu/ . Lecture slides are there to guide you.
+
+2. Assignment 2- This will be the problem set 2 at this link: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/ . Again, lecture slides/videos are present. You can refer to them.
+
+3. If you need more help with python, following links will help you:
+https://www.tutorialspoint.com/python/index.htm 
+https://www.w3schools.com/python/ 
