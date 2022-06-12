@@ -8,6 +8,7 @@
 * -f flag is given to check whether the file exists or not.
 * We use the *awk* programming language for processing datasets conveniently. The basic function of awk files is to search files for lines (or other units of text) that contain certain patterns. When a line matches one of the patterns, awk performs specified actions on that line.
 * The column indexing in awk starts from $1 and goes on as $2, $3 and so on. We choose the required columns by specifying their index number and perform actions on the values accordingly.
+* We make the awk and the sh file executable by the chmod command.
 
 ## Running the tasks on terminal:
 Last login: Sun Jun 12 11:30:56 on ttys000
