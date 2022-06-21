@@ -1,3 +1,4 @@
+# TASK 1
 ## HTTP 
 HTTP stands for HyperText Transfer Protocol  
 It is an protocol used for communicating with web servers for transmitting files like HTML, Images, Videos etc.
@@ -72,6 +73,36 @@ It stands for Domain Name System. Every computer on the internet has its own uni
 ## How to send DNS request through terminal?
 It can be done using nslookup command  
 `nslookup <options> <server-name>`  
+
+# TASK 2
+## How to review a web-app
+### Viewing the page source
+Page source is what the webserver sends to our browser.  
+It is made up of HTML , CSS and Javascript.  
+To view it, we can right and select the option "View Page source" or by putting view-source: in front of the URL  
+Directory-listing feature (if enabled in a website) lists every file in the directory.  
+Viewing Page Source can give us a hint about what framework is used.  
+### Using Inspect Element
+On any webpage , we can right click and choose the Inspect Element option  
+Viewing page-source may not be very beneficial as we are not able to see for each element in real-time what will happen when we change its css , and sometimes we are not able to see the css for a particular element as it may be stored in an another file. Inspect element provides us with a live representaion of what is currently on the website. It is also helpful for debugging as we can also edit and interact with the page elements (like changing visibility of a div).  
+### Debugging code in the webpage
+There is section when we click on Inspect known as "Sources" in Chrome. It shows what all resources the webpage is currently using.  
+Sometimes in the javascript files , all the code is written in a single line (to make the file smaller)  
+However , we can use the Pretty Print option (looks like {}) to make the code readable  
+There is a feature in the debugger known as "breakpoints" , we can set a breakpoint on some line of the code , this forces the browser to stop execution when the particular line is reached.  
+### The Network Tab
+It is used to keep track of any external request the webpage makes. When we reload a page , we can check what requests it has sent to a webserver. One method for making a request is AJAX.  
+AJAX is a method with which we can asynchronously send a web request in the background.  
+
+
+
+
+
+
+
+
+
+
 
 
 
