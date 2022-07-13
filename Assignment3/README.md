@@ -1,6 +1,6 @@
-#Task 1</br>
+#Task 1
 ---
-##HTTP</br>
+##HTTP
 ---
 HTTP(HyperText Transfer Protocol) is a protocol for communicating with, and transferring information from web servers</br>
 ##HTTPS</br>
