@@ -18,7 +18,7 @@ Uniform Resource Locator. An instruction on how to access a resource on the inte
 - **POST**: Submitting data to a server, to potentially make new records</br>
 - **PUT**: Submitting data to a server, to update existing records</br>
 - **DELETE**: Deleting records from a server</br>
-### HHTP Status Codes</br>
+### HTTP Status Codes</br>
 Attached with the reponse to a HTTP request to indicate status of the query</br>
 - **100-199**: Information Response. Uncommon code, used to indicate successful reception of information by server, and to send more information</br>
 - **200-299**: Success. Used to indicate success of processing the query</br>
