@@ -1,0 +1,82 @@
+TASK1
+
+
+HTTP is a set of rules that are used for communication with web servers or transmitting data.
+HTTPS is the secure version of it.
+When we access a website ,our browser makes request to web server for data such as HTML,Images etc.
+There are parameters in a request
+> The request method
+> The HTTP Protocol Version
+> The Page being requested
+
+
+Types of requests-
+>GET to retrieve the data from webpage
+>POST to submit data to web server and possibly creating a new record
+>PUT to submit data to web server to update info
+>DELETE to delete info/records from a web server
+
+
+HTTP Status Codes-
+
+When we make request to web server, it gives response. The response contains an integer which tells us about the 
+result of request.
+General Status Codes:
+100-199 -> Tells that first part of request is accepted and and user should with his request.
+200-299 -> Tells that request was succesful
+300-399 -> Redirects the client's request to other webpage or other website
+400-499 -> Informs about Error in request
+500-599 -> Informs about Error on the server side
+
+Cookie:
+
+When we visit a website we give it some info about ourselves so next time we come it updates settings
+according to the info and thereby enhaces experience.
+
+
+
+DNS
+Stands for Domain Name System
+Just like we have address for our home there are addresses for the computers on website. We can't remember IP addresses so DNS does that thing
+for us.
+Domain Names
+It has 3 parts:
+>TLD -- This is the rightmost part of the domain name
+        Two types of it-
+                      1> gTLD which is historically used to tell the purpose of the website
+                         For e.g. .com tells us that website is for commercial purposes, .gov tells us that it is government website
+                      2> ccTLD used for geographical purposes for e.g. .in tells that website is based in India
+>Second Level Domain -- It is the middle part of the domain name. It has a limit of 63 char and can have only 0-9 a-z and hypen not at either ends
+>SubDomain -- Left part of Domain name. We can  have multiple domains but length must be kept 253 chars.
+
+DNS Record Types
+A Record- These records resolve for IPv4 addresses
+AAAA Record - resolves for IPv6 addresses
+CNAME - resolves for other domain names
+MX - These resolves for address that saves the email of domain we are visiting.
+TXT - Any text can be stored in it.
+
+
+
+TASK2
+
+
+There are tools in the browser through which we can see the code of the webpage, the sources it have and many other things.
+The tools available are:
+> View Source - It shows us the code of the website we are currently on. The code contains HTML,CSS and JS commands. 
+                We know a lot of info about website using this source code. We can get to know about the Framework used 
+                to develop the website. We can see the relation between different webpages associated with the website.
+                It contains the comments left by the developer for our help to understand the particular part of code or it 
+                maybe a message left by developer.
+> Inspector -   Using this we can see the code to view the current 'webpage'.Through this tool we can interact with the elements 
+                of page. We can tinker with the code and see the changes occuring on webpage. These changes are not permanent and 
+                will soon disappear when we refresh the page. We can debug the issues on the page by editing the code accordingly.
+> Debugger - This is used to modify/debug javascript files associated with the website. It is very useful for developers 
+             who want to deep dive into the JS code. The JS files are usually written in one line making it tough to read.
+             We can use pretty print option to make that single line code readable. We can use 'breakpoint' at a particular 
+             line of code such that code does not execute after that line.
+             These tools are used to test the user interface of a website or any web.
+                    application.
+> Network Tab  - Using this we can see the requests that the webpage makes. One method for making a request is AJAX.
+                 AJAX is a method with which we can asynchronously send a web request in the background.Since we get
+                 info about the data flow between our computer and internet ,we can find the root cause of a problem.
